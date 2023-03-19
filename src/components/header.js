@@ -3,6 +3,7 @@ function header() {
         <div>
             Amdalat's Profile
         </div>
+        /**navbar here */
     )
 }
 export default header;

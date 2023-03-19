@@ -3,7 +3,7 @@ function Project(projects) {
     <div>
      <div>  
     <h1 href="https://amdalat1000000.github.io/The-Password-Generator-2/" link>Password Generator</h1>
-    <img src="link to image from in assets folder">a screenshot from the website that is uploaded to the asset folder</img>
+    <img src="./public/assets/imagefilename link to image from in assets folder">a screenshot from the website that is uploaded to the asset folder</img>
     <link href="https://github.com/Amdalat1000000/The-Password-Generator-2" link>Password Generator Github Repository</link>
     </div>
     <div>  
