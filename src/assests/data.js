@@ -28,7 +28,7 @@ export const data = [
     title: "Work Day Scheduler",
     deployedLink: "https://amdalat1000000.github.io/Work-Day-Scheduler",
     githubLink: "https://github.com/Amdalat1000000/Work-Day-Scheduler",
-    imageLink: "./public/assets/WorkDaySchedulerImg.jpg",
+    imageLink: "./public/assets/WorkDaySchedulerImg.png",
   },
   {
     title: "Refactor Horizon",
