@@ -30,4 +30,10 @@ export const data = [
     githubLink: "https://github.com/Amdalat1000000/Work-Day-Scheduler",
     imageLink: "./public/assets/WorkDaySchedulerImg.jpg",
   },
+  {
+    title: "Refactor Horizon",
+    deployedLink: "https://amdalat1000000.github.io/RefactorHorizonAssignment/",
+    githubLink: "https://github.com/Amdalat1000000/RefactorHorizonAssignment",
+    imageLink: "./public/assets/RefactorHorizonIMG.jpg",
+  },
 ];
