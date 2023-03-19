@@ -24,4 +24,10 @@ export const data = [
     githubLink: "https://github.com/Amdalat1000000/The-Password-Generator-2",
     imageLink: "./public/assets/PasswordGeneratorImg.jpg",
   },
+  {
+    title: "Work Day Scheduler",
+    deployedLink: "https://amdalat1000000.github.io/Work-Day-Scheduler",
+    githubLink: "https://github.com/Amdalat1000000/Work-Day-Scheduler",
+    imageLink: "./public/assets/WorkDaySchedulerImg.jpg",
+  },
 ];
