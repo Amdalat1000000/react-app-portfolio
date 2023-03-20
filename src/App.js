@@ -1,8 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Header from "./components/header.js";
-import Home from "./components/home.js";
+import Header from "./components/Header.js";
+import Home from "./components/Home.js";
 import ProjectGallery from "./components/Project-Gallery";
+
 
 function App() {
   return (

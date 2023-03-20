@@ -8,7 +8,7 @@ function home() {
           <ol>
           LinkedIn: https://www.linkedin.com/in/amdalat
           Github: https://github.com/Amdalat1000000
-          Email: babi.jinadu@gmail.com
+          
 <h1>
   My CV
 </h1>
