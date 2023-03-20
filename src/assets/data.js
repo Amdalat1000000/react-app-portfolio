@@ -10,7 +10,7 @@ export const data = [
     title: "Bootstrap Portfolio",
     deployedLink: "https://amdalat1000000.github.io/Bootstrap-Portfolio/",
     githubLink: "https://github.com/Amdalat1000000/Bootstrap-Portfolio",
-    imageLink: "/react-app-portfolio/public/assets/BootstrapPortfolioImg.jpg",
+    imageLink: "/assets/BootstrapPortfolioImg.jpg",
   },
   {
     title: "Portfolio",

@@ -28,7 +28,9 @@ function Home() {
         Github: https://github.com/Amdalat1000000
      <p>
      </p> 
-  <h3>Contact Details</h3>
+  <h3>
+  Contact Details
+  </h3>
      Email: babi.jinadu@gmail.com
       </p>
                            
