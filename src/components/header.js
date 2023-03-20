@@ -1,7 +1,9 @@
 function header() {
     return (
         <div>
-            Amdalat's Profile
+        <header>
+         Amdalat's Profile
+        </header>
         </div>
         /**navbar here */
     )
