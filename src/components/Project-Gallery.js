@@ -8,7 +8,7 @@ const ProjectGallery = () => {
   }, []);
 
   return (
-    <div>
+    <div id="ProjectsGallery">
       {data.map((project) => (
         <Project
           key={project.title}
