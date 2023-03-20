@@ -4,7 +4,7 @@ function Home() {
     return (
         <div id="intro">
         <h1>Home Page</h1>
-        <img src="/assets/MyPhoto.jpg"></img>
+        <img src="/assets/MyPhoto.jpg" alt="My Photo"></img>
         <h2>Amdalat Jinadu</h2>
         <p>I am a postgraduate student with a vast range of executive skills and training.</p>
         <p>
