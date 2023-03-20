@@ -9,7 +9,15 @@ const ProjectGallery = () => {
 
   return (
     <div>
-      <Project />
+      {data.map((project) => (
+        <Project
+          key={project.title}
+          title={project.title}
+          deployedLink={project.deployedLink}
+          githubLink={project.githubLink}
+          imageLink={project.imageLink}
+        />
+      ))}
     </div>
   );
 };
