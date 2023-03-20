@@ -1,7 +1,7 @@
 function home() {
     return (
         <div id="intro">
-        <img></img>
+        <img src="/assets/MyPhoto.jpg"></img>
         <h1>Amdalat Jinadu</h1>
         <p>I am a postgraduate student with a vast range of executive skills and training.</p>
         <p>
