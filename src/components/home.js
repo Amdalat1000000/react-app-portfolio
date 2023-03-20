@@ -11,9 +11,11 @@ function Home() {
           <ol>
           LinkedIn: https://www.linkedin.com/in/amdalat
           Github: https://github.com/Amdalat1000000
-          <div><p>Contact Details</p>.
+          <p>
+      <h3>Contact Details</h3>
           Email: babi.jinadu@gmail.com
-          </div>             
+          </p>
+                           
 <h3>
   My CV
 </h3>
