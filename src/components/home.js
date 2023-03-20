@@ -1,17 +1,20 @@
-function home() {
+import React from "react";
+
+function Home() {
     return (
         <div id="intro">
+        <h1>Home Page</h1>
         <img src="/assets/MyPhoto.jpg"></img>
-        <h1>Amdalat Jinadu</h1>
+        <h2>Amdalat Jinadu</h2>
         <p>I am a postgraduate student with a vast range of executive skills and training.</p>
         <p>
           <ol>
           LinkedIn: https://www.linkedin.com/in/amdalat
           Github: https://github.com/Amdalat1000000
           
-<h1>
+<h3>
   My CV
-</h1>
+</h3>
           <p>
           Open a PDF file: <a href="/assets/AmdalatJinaduCV23_2.PDF">Amdalat Jinadu's CV</a></p>
           </ol>
@@ -19,4 +22,4 @@ function home() {
         </div>
       );
 }
-export default home;
+export default Home;
