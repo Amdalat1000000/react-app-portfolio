@@ -1,11 +1,9 @@
 # Link to View React-App-Portfolio
-
-Open http://localhost:3000 to view it in your browser.
-=======
-#Link To View React-app-portfolio:
+ 
+Run npm start which will open this link below:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
->>>>>>> 72f2aa4273981a8dfbc79b0a744caeb2ac2c822d
+
 
 # Getting Started with Create React App
 
