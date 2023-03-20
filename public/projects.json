@@ -6,5 +6,22 @@
 {   "title":"Code Quiz",
     "url":"https://amdalat1000000.github.io/Code-Quiz/index.html",
     "img":"./public/assets/CodeQuizImg.png",
-    "githubRepo":"https://github.com/Amdalat1000000/Code-Quiz"}]
+    "githubRepo":"https://github.com/Amdalat1000000/Code-Quiz"},
+    {   "title":"Bootstrap Portfolio",
+    "url":"https://amdalat1000000.github.io/Bootstrap-Portfolio/",
+    "img": "/assets/BootstrapPortfolioImg.jpg",
+    "githubRepo":"https://github.com/Amdalat1000000/Bootstrap-Portfolio"},
+    {   "title":"Portfolio",
+    "url":"https://amdalat1000000.github.io/challenge2/",
+    "img":"/assets/PortfolioIMG.jpg",
+    "githubRepo":"https://github.com/Amdalat1000000/challenge2"},
+    {   "title":"Work Day Scheduler",
+    "url":"https://amdalat1000000.github.io/Work-Day-Scheduler",
+    "img":"/assets/WorkDaySchedulerImg.png",
+    "githubRepo":"https://github.com/Amdalat1000000/Work-Day-Scheduler"},
+    {   "title":"Refactor Horizon",
+    "url":"https://amdalat1000000.github.io/RefactorHorizonAssignment/",
+    "img":"/assets/RefactorHorizonIMG.jpg",
+    "githubRepo":"https://github.com/Amdalat1000000/RefactorHorizonAssignment"}
+]
 
