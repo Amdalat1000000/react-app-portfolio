@@ -17,9 +17,10 @@ function Home() {
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-  </nav>  
+  </nav>
         <h1 id="homePage">Home Page</h1>
         <img src="/assets/MyPhoto.jpg" alt="myPhotograph"></img>
+        <p>Amdalat's Profile</p>
         <h2>Amdalat Jinadu</h2>I am a postgraduate student with a vast range of executive skills and training.
         <ol>
         <p></p>
