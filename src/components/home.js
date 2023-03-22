@@ -1,8 +1,10 @@
 import React from "react";
+import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import Form from 'react-bootstrap/Form';
 
 function Home() {
   return (
@@ -15,6 +17,7 @@ function Home() {
           <Nav className="me-auto">
             <Nav.Link href="#homePage">Home</Nav.Link>
             <Nav.Link href="#Projects">Projects</Nav.Link>
+            <Nav.Link href="#ContactMe">Contact</Nav.Link>
             <Nav.Link href="#ContactPage">Contact Me</Nav.Link>
             <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#Projects">Projects</NavDropdown.Item>
@@ -26,7 +29,7 @@ function Home() {
           <Nav>
             <Nav.Link href="#deets">More deets</Nav.Link>
             <Nav.Link eventKey={2} href="#memes">
-              Dank memes
+              Memes
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
@@ -76,10 +79,26 @@ function Home() {
           LinkedIn: https://www.linkedin.com/in/amdalat Github:
           https://github.com/Amdalat1000000
           <p></p>
-          <h3 id="#ContactPage">Contact Details</h3>
+          <h3 id="#ContactMe">Contact Details</h3>
           Email: babi.jinadu@gmail.com
         </p>
-
+        <p>For enquiries please fill out the form below.</p>
+        <Form>
+      <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
+        <Form.Label>Email address</Form.Label>
+        <Form.Control type="email" placeholder="name@example.com" />
+      </Form.Group>
+      <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
+        <Form.Label>Add your enquiry here</Form.Label>
+        <Form.Control as="textarea" rows={3} />
+      </Form.Group>
+      <Button variant="primary" type="submit">
+        Submit
+      </Button>
+    </Form>
+<div>
+<p></p>
+</div>
         <h3>My CV</h3>
         <p>
           Open a PDF file:{" "}
