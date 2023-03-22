@@ -3,6 +3,8 @@ import "./App.css";
 import Header from "./components/Header.js";
 import Home from "./components/home.js";
 import ProjectGallery from "./components/Project-Gallery.js";
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 
 function App() {
