@@ -1,6 +1,6 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Header from "./components/Header.js";
+import Header from "./components/Head.js";
 import Home from "./components/home.js";
 import ProjectGallery from "./components/Project-Gallery.js";
 import 'bootstrap/dist/css/bootstrap.css';
